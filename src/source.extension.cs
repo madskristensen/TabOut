@@ -13,6 +13,6 @@ namespace TabOut
         public const string Language = "en-US";
         public const string Version = "1.0.900";
         public const string Author = "Mads Kristensen";
-        public const string Tags = "";
+        public const string Tags = "tab, navigation";
     }
 }
